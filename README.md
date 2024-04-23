@@ -54,11 +54,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ayham7i&show_icons=true&locale=en&layout=compact" alt="ayham7i" /></p>
+  <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ayham7i&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="ayham7i" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayham7i&show_icons=true&locale=en" alt="ayham7i" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayham7i&show_icons=true&locale=en&theme=react&border_radius=10" alt="ayham7i" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayham7i&" alt="ayham7i" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayham7i&theme=react&border_radius=10" alt="ayham7i" /></p>
 </div>
 
 <br/><br/>
