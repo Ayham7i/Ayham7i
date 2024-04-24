@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,net,html,css,vscode,github,django,tailwind,git,cpp" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,cs,firebase,tensorflow,c,laravel,xd,mysql,php" /><br>
 </div>
 
 <br/>
@@ -54,11 +54,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ayham7i&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="ayham7i" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ayham7i&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="ayham7i" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayham7i&show_icons=true&locale=en&theme=react&border_radius=10" alt="ayham7i" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayham7i&theme=react&border_radius=10" alt="ayham7i" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayham7i" alt="ayham7i" /></p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 <br/><br/>
