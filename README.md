@@ -1,4 +1,4 @@
-<img style="display: flex; justify-content: center; align-items: center; width: 1000px; height: 571px; margin: 0;" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="MasterHead" style="max-width: 100%; max-height: 100%; border-radius: 20px;">
+<img style="display: flex; justify-content: center; align-items: center; width: 1000px; height: 450px; margin: 0;" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="MasterHead" >
 
 <h1 align="center">Hi 👋, I'm Ayham Al-Akhali</h1>
 <h3 align="center">I'm a Senior Student Now In Computer Science</h3>
