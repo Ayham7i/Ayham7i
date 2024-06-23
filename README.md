@@ -1,5 +1,4 @@
 <img style="display: flex; justify-content: center; align-items: center; width: 1000px; height: 450px; margin: 0;" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="MasterHead" >
-
 <h1 align="center">Hi 👋, I'm Ayham Al-Akhali</h1>
 <h3 align="center">I'm a Senior Student Now In Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -49,9 +48,7 @@
   
   <br/><br/><br/>
 </div>
-
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
