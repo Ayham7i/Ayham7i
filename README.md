@@ -1,4 +1,7 @@
-<img style="display: flex; justify-content: center; align-items: center; width: 1000px; height: 450px; margin: 0;" src="https://media.giphy.com/media/TgyJebqyMtPrOxiPdk/giphy.gif?cid=790b7611rj7wr0wm0eb3kbteodbax7w06v8df7mxsc9dqrjj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" >
+<video style="display: flex; justify-content: center; align-items: center; width: 1000px; height: 450px; margin: 0;" controls>
+  <source src="tangro.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <h1 align="center">Hi 👋, I'm Ayham Al-Akhali</h1>
 <h3 align="center">I'm a Senior Student Now In Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
