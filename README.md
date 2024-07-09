@@ -13,7 +13,6 @@
 - 📫 How to reach me **ayham1010song@gmail.com**
 
 - </div>
- 
 <div align="center"> 
   <a href="ayham1010song@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -55,15 +54,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayham7i" alt="ayham7i" /></p>
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 <br/><br/>
-
 <hr/>
-
 <br/>
 
 <div align="center">
