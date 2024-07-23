@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI Stuffs Such as Deep Learning , Machine Learning , Neural Network , ReInforcement Learning , etc**
 
-- 💬 Ask me about **Computer Science ,AI ,Python ,C++, C# ,SQL , Web Devs (Front-End , Back-End)**
+- 💬 Ask me about **Computer Science ,AI ,Python ,JavaScript ,C++, C# ,SQL , Web Devs (Front-End , Back-End)**
 
 - 📫 How to reach me **ayham1010song@gmail.com**
 
